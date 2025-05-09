@@ -1,0 +1,7 @@
+development:
+  api_prefix: "/dev-api"
+  mcp_servers: {
+      # 添加mcp配置
+  }
+
+
